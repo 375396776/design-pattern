@@ -1,6 +1,7 @@
 package com.lb.pattern.singleton;
 
 import com.lb.pattern.singleton.hungry.HungrySingleton;
+import com.lb.pattern.singleton.inner.InnerClassSingleton;
 import com.lb.pattern.singleton.lazy.LazySingleton;
 import com.lb.pattern.singleton.seriable.SeriableSingleton;
 import org.junit.Test;
