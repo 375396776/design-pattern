@@ -13,6 +13,7 @@
         <module>factory-pattern</module>
         <module>prototype-pattern</module>
         <module>proxy-pattern</module>
+        <module>strategy-pattern</module>
     </modules>
 
 
